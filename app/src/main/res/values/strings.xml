@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">More Cowbell</string>
+    <string name="activity_main_list_add_title">Add entry</string>
+    <string name="activity_main_list_add_title_placeholder">Title</string>
+    <string name="activity_main_list_add_source_placeholder">Source</string>
+    <string name="activity_main_list_add_positive_button">Add</string>
+    <string name="activity_main_list_add_negative_button">Cancel</string>
+
+    <!-- Templates -->
+    <string name="entry_thumbnail_youtube_url">http://img.youtube.com/vi/%s/default.jpg</string>
+
+    <!-- Development -->
+    <string name="dev_activity_main_list_item_title">Entry Title</string>
+</resources>
